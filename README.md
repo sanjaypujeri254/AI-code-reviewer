@@ -2,7 +2,7 @@
 
 A comprehensive AI-powered system that automatically reviews source code, detects bugs and security vulnerabilities, suggests improvements and refactoring strategies, and provides intelligent code completion.
 
-## 🚀 Features
+##  Features
 
 - **AI-Powered Code Review**: Detect bugs, code smells, and security vulnerabilities
 - **Multi-Model Support**: Switch between GPT-4, CodeLlama, Claude-3, and more
@@ -14,7 +14,7 @@ A comprehensive AI-powered system that automatically reviews source code, detect
 - **Interactive Dashboard**: Visualize code quality metrics and trends
 - **Docker Deployment**: Full containerized setup with Docker Compose
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 | Layer | Technologies |
 |-------|-------------|
@@ -25,7 +25,7 @@ A comprehensive AI-powered system that automatically reviews source code, detect
 | **DevOps** | Docker, Docker Compose |
 | **APIs** | FastAPI REST APIs, GitHub API integration |
 
-## 📋 Prerequisites
+##  Prerequisites
 
 - Docker and Docker Compose
 - Python 3.11+ (for local development)
